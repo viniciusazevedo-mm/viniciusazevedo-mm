@@ -1,6 +1,6 @@
 ### Hey! Vinicius Azevedo
 
-- 🔭 Trabalho com backend
+- 🔭 
 - 🌱 ...
 - 🔥 ...
 
