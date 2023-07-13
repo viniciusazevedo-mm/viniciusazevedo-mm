@@ -6,7 +6,7 @@
 
  <div>
   <a href="https://github.com/viniciusazevedo-mm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiterney&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mviniciusazevedo-mm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiterney&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -21,9 +21,9 @@
   ##
  
 <div> 
-  <a href="mailto:maiterneyvilela@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maiterney/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:vinicius.azevedo@madeiramadeira.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/viniciusazevedo-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Maiterney/maiterney/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/viniciusazevedo-mm/viniciusazevedo-mm/blob/output/github-contribution-grid-snake.svg)
  
 </div>
