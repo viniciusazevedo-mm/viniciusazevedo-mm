@@ -1,32 +1,28 @@
-### Hey! Vinicius Azevedo
-
-- 🔭 
-- 🌱 ...
-- 🔥 ...
-
- <div>
-  <a href="https://github.com/viniciusazevedo-mm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vynazevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vynazevedo&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
- <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lucas-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-</div>
-  
-  ##
+<h3 align="center">
  
-<div> 
+### I'm Vinicius Azevedo👋
+ 
+</h3>
+ 
+What I know and how I work:
+
+- 🔭 I’m currently working on Golang, Python and PHP as a Back-End;
+- 🌱 I’m currently learning Machine Learning for Music an Audio;
+- 👯 I’m looking to collaborate on audio projects;
+- 💬 Ask me about music and audio processing;
+
+<h2 align="center"> :rocket: &nbsp;My Skills </h2>
+<h3 align="center">
+ 
+ ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+ ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+ ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+ ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+ ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+ ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
+ 
+<div>
   <a href="mailto:vinicius.azevedo@madeiramadeira.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciusazevedo-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Maiterney/maiterney/blob/output/github-contribution-grid-snake.svg)
-  
+  ![Snake animation](https://github.com/Maiterney/maiterney/blob/output/github-contribution-grid-snake.svg)  
 </div>
