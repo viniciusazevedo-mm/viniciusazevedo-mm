@@ -17,7 +17,7 @@ What I know and how I work:
  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
  ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java)
  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
- ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go) 
+ ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
